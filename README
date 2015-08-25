@@ -1,2 +1,7 @@
 # Troll-AI
 A troll AI made for Zero-K in java... or at least an attempt at it.
+
+Needed:
+     Spring/AI/Interfaces/Java/[version]/AIInterface.jar (sources: jlib/AIInterface-src.jar</code>)
+    Spring/AI/Skirmish/NullOOJavaAI/0.1/jlib/vecmath.jar (sources: vecmath-src.jar)
+    JavaOO-AIWrapper.jar (sources: TODO) 
