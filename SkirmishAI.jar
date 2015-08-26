@@ -1,6 +1,0 @@
-@Override
-public int init(int teamId, OOAICallback callback)
-{
-    this.callback = callback;
-    return 0;
-}
